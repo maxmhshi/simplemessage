@@ -1,0 +1,12 @@
+{
+    "name": "DynamicRoom",
+    "version": "0.0.0",
+    "description": "Dynamic chat room",
+    "dependencies": {
+        "express": "latest",
+        "jade": "latest",
+        "mongodb": "latest",
+        "socket.io": "latest"
+    },
+    "author": "mhshi"
+}
